@@ -1,0 +1,22 @@
+        h1{
+            background-color: bisque;
+            border: 2px solid;
+        }
+
+        body{
+            border: 2px dashed slategrey;
+        }
+
+        p{
+            color: rgb(103, 71, 71);
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: medium;
+            padding-left: 20px;
+            padding-right: 20px;
+
+        }
+        section{
+            border: 3px solid darkkhaki;
+            margin-bottom: 10px;
+        }
+

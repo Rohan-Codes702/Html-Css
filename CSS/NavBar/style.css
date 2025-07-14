@@ -1,0 +1,30 @@
+*{
+    padding:0%;
+    margin: 0%;
+}
+
+.navbar{
+    border: 2px solid rgb(22, 137, 237);
+    background-color: rgb(218, 160, 12);
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+}
+li{
+    margin: 10px;
+    
+}
+
+@media (max-width:400px){
+    .list.logo{
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,25 @@
+h1{
+    border: 2px solid red;
+    text-align: center;
+    color: white;
+}
+body{
+    background: rgb(26, 21, 21);
+}
+
+#img2{
+    position: relative ;
+    top: 17%;
+    right: 20%;
+}
+#img4{
+    position: absolute ;
+    top: 20%;
+    left: 20%;
+}
+
+#img3{
+    position: fixed ;
+    top: 20%;
+    left: 20%;
+}

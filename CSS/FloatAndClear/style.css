@@ -1,0 +1,17 @@
+h1{
+    border: 2px solid black ;
+    text-align: center;
+    color:hsl(0, 100%, 50%)
+}
+
+img{
+    border: black dashed ;
+    margin: 2%;
+    float:left
+}
+p{
+    clear:right;
+}
+body{
+    background-color:bisque ;
+}

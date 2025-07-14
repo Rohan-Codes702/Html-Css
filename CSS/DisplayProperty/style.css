@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    border: 3px solid;
+}
+p{
+    display: block  ;
+    background-color: burlywood;
+    padding: 34px;
+    margin-bottom: 3px;
+}
+section{
+    display: inline;
+    padding: 34px;
+    margin-bottom: 3px;
+
+}
+
