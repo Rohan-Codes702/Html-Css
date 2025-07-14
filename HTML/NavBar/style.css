@@ -1,0 +1,41 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.conatiner{
+    margin-left: 10%;
+    width: 80%;
+    height: 500px;
+    box-shadow: 3px 3px 20px rgb(162, 159, 159);
+}
+.header{
+height: 10%;
+width: 80%;
+display: flex;
+}
+.log{
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(157, 67, 67);
+}
+.nav{
+    
+    width: 40%;
+    display: flex;
+    justify-content:space-between   ;
+    align-items: center;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    padding: 0;
+    margin: 0;
+}
+ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
